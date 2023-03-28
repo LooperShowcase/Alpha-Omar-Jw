@@ -1,0 +1,57 @@
+h1 {
+  color: green;
+}
+
+a {
+  color: green;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+p {
+  color: green;
+}
+
+div {
+  background-color: rgb(4, 255, 0);
+}
+
+#bb {
+  background-color: chartreuse;
+}
+#navb {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+}
+
+#navbli {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(246, 248, 245);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li {
+  padding: 0%;
+}
+li a:hover {
+  background-color: #3dff02;
+}
